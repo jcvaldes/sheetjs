@@ -1,0 +1,10 @@
+{
+  "main": "./xlsx.full.min",
+	"types": "./index.d.ts",
+	"browser": {
+		"buffer": false,
+		"stream": false,
+		"process": false,
+		"fs": false
+	}
+}
